@@ -1,0 +1,3 @@
+Bucle: es una forma rápida y sencilla de hacer algo repetidamente. 
+
+Operadores lógicos: la utilidad que tienen es que generalmente se usan para valores booleanos, y cuando es así, devuelven un valor booleano. Es decir, "true" o "false". 

@@ -1,0 +1,15 @@
+Crea un archivo llamado informe.txt en que hables como de la manera mas simple cómo le explicarias a alguien los 
+  siguientes temas:
+
+  -Qué es un motor(en terminos tecnologicos)?
+  Un motor es lo que implementa el código escrito por el programador dentro de la página, es lo que hace que ese código funcione y el navegador lo entienda.
+
+  -Qué es una variables?
+Lugar donde se guarda o almacena información. 
+
+  -Cuales son los valores que existen en js?
+  String, booleanos, números, objetos, funciones y valores indefinidos. 
+
+  -Para qué sirve el console.log
+Muestra la informacion proporcionada en la consola JavaScript. 
+  
